@@ -1,0 +1,190 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2628", TVE RS,
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
+#EXTINF:0 type="stream" channelId="2628", TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2467", TV Cultura
+http://168.205.87.198:8555/live/1438/123456/32.ts
+#EXTINF:0 type="stream" channelId="2467", TV Cultura
+http://boxtv.uniredes.com.br:80/123456789/123456789/79
+
+#EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
+https://livefocamundo.com:8081/redesul/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Sul TV
+https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2613", TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Conecta web TV
+http://189.14.239.62:1935/webtv/livestream1/chunklist_w633831762.m3u8
+#EXTINF:0 type="stream" channelId="-1", Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m3u8
+
+#EXTINF:0 type="stream" channelId="2035", Love Nature
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:0 type="stream" channelId="-1", Rakuten-documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Rakuten Family (PT)
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", TOON GOGGLE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:0 type="stream" channelId="-1", Toon Goggle HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:0 type="stream" channelId="-1", TV JPNews
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" size="Small", Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2645", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Run Time Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=95926e843ec7970ed65dd54a0edbd88e&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%20America&timestamp=1651100850&id=4676&ip=2804%3A14c%3A6580%3A5d0e%3A11ee%3Ab353%3Acc54%3A1c61&override_expiration=1500&sign=tsqt7ApnwgucpA5uTxrXfAKYENmJSPB67bs2bLIl7%2Bs%3D7
+#EXTINF:0 type="stream" channelId="-1", Run Time Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+#EXTINF:0 type="stream" channelId="-1", Run Time
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+#EXTINF:0 type="stream" channelId="-1", Fandom TV
+http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Fronteira Movies
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", CinePIX
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CLC CINE LIFE CLASSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:0 type="stream" channelId="-1", TV Tremembe
+https://livefocamundo.com:8081/tvtremembe/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede QDM
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+#EXTINF:0 type="stream" channelId="5100", TV Clube
+https://5c483b9d1019c.streamlock.net:443/8186/8186/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GLN TV
+http://boxtv.uniredes.com.br:80/123456789/123456789/213
+#EXTINF:0 type="stream" channelId="-1", CLC FILMES CLÁSSICOS
+http://168.205.87.198:8555/live/1438/123456/198.ts
+#EXTINF:0 type="stream" channelId="5107", TV Imperial
+https://alanza.iptv2022.com/IMPERIAL_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Jornal do Nordeste
+https://alanza.iptv2022.com/TV_JORNAL_DO_NORDESTE/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", AWTV
+https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 29
+https://alanza.iptv2022.com/CANAL_29/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", X Plus TV
+https://alanza.iptv2022.com/X_PLUS_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Gallo HD
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Channel 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w192471995.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede TV Sul
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w947922390.m3u8
+#EXTINF:0 type="stream" channelId="-1", LASSTV
+https://streaming03.zas.media:1936/lasstv/lasstv/chunklist_w574669255.m3u8
+#EXTINF:0 type="stream" channelId="-1", ClubinhoFun
+http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CineLivre
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", CineLivre 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" channelId="-1", Nova Manchete
+https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1354425719.m3u8
+#EXTINF:0 type="stream" channelId="-1", Carioca Net
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
+#EXTINF:0 type="stream" channelId="-1", WEB TV Clássicos do Cinema
+https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Sonata
+https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
+
+
+#EXTINF:0 type="stream" channelId="5102", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede Minas
+http://168.205.87.198:8555/live/1438/123456/101.ts
+#EXTINF:0 type="stream" channelId="2466", TV Brasil
+http://168.205.87.198:8555/live/1438/123456/134.ts
+#EXTINF:0 type="stream" channelId="-1", CaTVE
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", REDE FAMILIA HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+#EXTINF:0 type="stream" channelId="-1", BR Super TV
+https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w553269129.m3u8
+#EXTINF:0 type="stream" channelId="-1", Central TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1018050766.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Urban Kids
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Urban Docs
+https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", URBAN TRAVEL
+https://5ad482a77183d.streamlock.net/urbantvtravelgmail.com/urbantvtravelgmail.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Movies
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Urban TV
+https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", Urban Séries
+https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:0 type="stream" channelId="322", Nick Jr
+http://170.82.200.38:8080/nick_junior/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kids
+http://168.205.87.198:8555/live/1438/123456/143.ts
+#EXTINF:0 type="stream" channelId="-1", DC Kids Brasil
+http://boxtv.uniredes.com.br:80/123456789/123456789/112
+#EXTINF:0 type="stream" channelId="-1", WB Kids Brasil
+http://boxtv.uniredes.com.br:80/123456789/123456789/238
+#EXTINF:0 type="stream" channelId="-1", Pica Pau
+http://boxtv.uniredes.com.br:80/123456789/123456789/190
+#EXTINF:0 type="stream" channelId="2614", TV Rá-Tim-Bum
+http://168.205.87.198:8555/live/1438/123456/84.ts
+#EXTINF:0 type="stream" channelId="-1", Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fronteira Kids
+https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", JETSONS TV
+https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", LIFE_CHANNEL_BRASIL
+https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://cdn2.connectbr.com.br/axn/index.m3u8
+#EXTINF:0 type="stream" channelId="1303", FX
+http://170.82.200.38:8080/fx/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Comédia Brasil
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MULTISHOW FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31617
+
+#EXTINF:0, FUTURA
+http://168.205.87.198:8555/live/1438/123456/67.ts
+#EXTINF:0, CANAL SAÚDE
+http://168.205.87.198:8555/live/1438/123456/165.ts
+#EXTINF:0 type="stream" channelId="-1", TV BRICS HD
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="2619", Cine Brasil
+http://168.205.87.198:8555/live/1438/123456/145.ts
+#EXTINF:0 type="stream" channelId="-1", Sabor e Arte
+http://168.205.87.198:8555/live/1438/123456/172.ts
+#EXTINF:0 type="stream" channelId="1201", History 2
+http://cdn.connectbr.com.br/h2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BraziTV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
