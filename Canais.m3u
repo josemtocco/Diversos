@@ -190,3 +190,11 @@ http://cdn.connectbr.com.br/h2/index.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BraziTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Marsha e o Urso
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766662?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1", Travel Box Brasil
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/384894?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1", MAX90 TV
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
+
