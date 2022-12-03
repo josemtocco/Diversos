@@ -8,6 +8,9 @@ http://168.205.87.198:8555/live/1438/123456/32.ts
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
 http://boxtv.uniredes.com.br:80/123456789/123456789/79
 
+#EXTINF:0 type="stream" channelId="2467", RBS TV Passo Fundo
+https://live-rbs-rs-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtcmJzLXJzLTA0LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY3MDE5MDkwOCwiaWF0IjoxNjcwMTA0NTA4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvcGVuX3N0YXR1cyI6IkYiLCJvd25lciI6ImYzODFiNzllLTI4YmYtNGZlZS05NzA3LTNiYzgyM2EzZTQxMSIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXBmby9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiIwYWI0OTQ0Yy1jMGM2LTdlMjktMTI1OC1jZWZhOWNhMDRhM2QifQ.M-BpDp2H4EmfveO0r4tf8YiN0psFuL_inkM1T36Jr3bLnTOLZUM5ttvx7xefJHgkkzeSMu_J1FIZbfKTji1sdU7U74rzW8apLxMf4DlRwsNWSRMWoW-tsWKXfZEoupFHBBWR2aMLquwNHEBvIaL3UZSPw1sSKS-UyhvB9gPWHmbOlfb6gTdPKPxIQIq5AWtRcU9MXUnhYnXjp18yYkkUxslzwxacprZFPAS74yXNphJg9rgQklASqfdn_hUgiOGIforNn7iVXjo0TAbJF7_XCw3TxVVINbe_5K7DQUsEjlim3lqr3Bm12YdEjkGl1d0q_mSOT_Qo4KdGsFnCENNDoA/nu/f(i=2)/globo-pfo/globo-pfo-audio_1=96000-video=3442944.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
 https://livefocamundo.com:8081/redesul/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul TV
