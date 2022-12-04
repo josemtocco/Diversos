@@ -113,7 +113,12 @@ https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w1536715481.m3u8
 https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w889668456.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sonata
 https://stmv1.srvstm.com/tiago4617/tiago4617/chunklist_w1454621499.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", WEB TVCINE
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1943440238.m3u8
+#EXTINF:0 type="stream" channelId="-1", MAX90 TV
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -123,6 +128,8 @@ http://168.205.87.198:8555/live/1438/123456/101.ts
 http://168.205.87.198:8555/live/1438/123456/134.ts
 #EXTINF:0 type="stream" channelId="-1", CaTVE
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Futuro
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", REDE FAMILIA HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
@@ -130,6 +137,8 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b162800
 https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Central TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1018050766.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Gazeta
+https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
@@ -162,6 +171,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", JETSONS TV
 https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Marsha e o Urso
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766662?checkedby:iptvcat.com
 
 #EXTINF:0 type="stream" channelId="-1", LIFE_CHANNEL_BRASIL
 https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
@@ -191,21 +202,8 @@ http://cdn.connectbr.com.br/h2/index.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BraziTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Marsha e o Urso
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766662?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1", Travel Box Brasil
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/384894?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1", MAX90 TV
-https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Gazeta
-https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
-#EXTINF:0 type="stream" channelId="-1", ISTV
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", WEB TVCINE
-https://stmv1.srvif.com/channel1/channel1/chunklist_w1943440238.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Futuro
-https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 
