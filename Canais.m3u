@@ -174,18 +174,16 @@ https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Marsha e o Urso
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766662?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1", Picapau
-https://list.iptvcat.com/my_list/s/a18253fd1356613946c322be257a109e.m3u8
-#EXTINF:0 type="stream" channelId="-1", Picapau
-https://list.iptvcat.com/my_list/s/441e8dadfd8ea7189d35a09a1cbf67b5.m3u8
+#EXTINF:0 type="stream" channelId="-1", Pinky e Cérebro
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766660
 #EXTINF:0 type="stream" channelId="-1", Aladin
-https://list.iptvcat.com/my_list/s/7cfd0362cadabf02846a84dc693a550c.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766543
 #EXTINF:0 type="stream" channelId="-1", Bob Esponja
-https://list.iptvcat.com/my_list/s/b91e792309263f52b6aaa10e00c1c03d.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766553
 #EXTINF:0 type="stream" channelId="-1", Cão Coragem
-https://list.iptvcat.com/my_list/s/13137fbd8ba7e75ac84cc2f19d8d8ff9.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766572
 #EXTINF:0 type="stream" channelId="-1", Desenhos Disney
-https://list.iptvcat.com/my_list/s/ab74fc97809ec3640bbf75f66107b118.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766577
 
 #EXTINF:0 type="stream" channelId="-1", LIFE_CHANNEL_BRASIL
 https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
@@ -216,13 +214,13 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BraziTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Travel Box Brasil
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/384894?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/384894
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 #EXTINF:0 type="stream" channelId="-1", Modo Viagem
-https://list.iptvcat.com/my_list/s/22cf79cdbeefc4ac69b597d7b023d5a7.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/475671
 #EXTINF:0 type="stream" channelId="-1", National Geographic
-https://list.iptvcat.com/my_list/s/d3726c15846e236447bed594e05f510a.m3u8
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
 
 #EXTINF:0 type="stream" channelId="-1", Três Passos TV
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
