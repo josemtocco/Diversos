@@ -33,8 +33,6 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
 http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Mon
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2035", Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -67,6 +65,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 #EXTINF:0 type="stream" channelId="-1", Run Time
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
+
 #EXTINF:0 type="stream" channelId="-1", Fandom TV
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Fronteira Movies
@@ -157,12 +156,8 @@ http://boxtv.uniredes.com.br:80/123456789/123456789/161
 http://boxtv.uniredes.com.br:80/123456789/123456789/109
 #EXTINF:0 type="stream" channelId="-1", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Rede América
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv
 #EXTINF:0 type="stream" channelId="-1", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Diário
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVDiario
 
 #EXTINF:0 type="stream" channelId="-1", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
@@ -181,7 +176,7 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 http://170.82.200.38:8080/nick_junior/index.m3u8
 #EXTINF:0 type="stream" channelId="322", Cartoon Network
 http://boxtv.uniredes.com.br:80/123456789/123456789/219
-#EXTINF:0 type="stream" channelId="-1", Cartoon Network
+#EXTINF:0 type="stream" channelId="322", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Kids
 http://168.205.87.198:8555/live/1438/123456/143.ts
@@ -236,14 +231,12 @@ https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/475671
 #EXTINF:0 type="stream" channelId="-1", National Geographic
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
-#EXTINF:0 type="stream" channelId="-1", TVT
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
 #EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Euro News Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tveuronewsbrasil
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/Cp0FtM_qi_M3qdA0BhSdaw1Bg4NaF6nRgAUlWnJwZIjQzS3UGa5zmybTauq9K2I66Q5CatLx199PHBh_NqNU3JSyaeCDKbdg0y-ic2jpu4AizB3ecAWCbcfLG7SKkq7M55ly-1OuaRG2AhiLyZ7y9b5-2MOpGCQPuTvnNJ1Adcr73kXxVCq1k0r7o7qCHCX0omC-Fl7K0opWyXD-yD-MTOu2QiQwoUhfH35---2x_g9k_1EG-9SJTZAWathRnXGH_8s2jZYagYKvIzjtjVV1yl-9LtsGQY3o1KED7cXobTnjBi-UB-nIUVw0OopdCUcPu0ryr_v2cQTMu--ul_oPsRU_7T1XJb5FN0uiAHg4znXfGcjoSy0Gswl5JIthbdD52XVZb62H8ueq00Tu9GwlbMxd_szR0x86hpHaULmTLOFHM3Lrdkqf_886kkoNJuy42CC6goY3agTzwzzyQhutH_LPzHj1aR_L2oBpqd9r7KxfPEpLIxSu1NlQwqWq--BI3cC0O-BoeuUT2DtjlJ3PtwYeV7UBykLTx2PKpYdN2-ghRxCmCqtzkPSv30sAcdzJ394QfiKAPlnPOS7hh-_iDGpRCYiiMCoJLbl2OxseQjWM3sqJrQRhmQLoEVeLsq-PzqKd5I451HN2xMkkcPjLqO04XBc75GY230_6EoyRfu9dpD_3XswvLkv8e9QGQavT_eYJu0VZ49_CKKE8WQSBbeyuaTLWJSqVueToQEeYgCymsV6L-faCGEtVFWOWb1dFuJrv2nNVEv4F_zdRLNreTNTLR617tBwMleUODK89sBo1Djp59OiVw49bE9rqWDkjMvsfpCb94P_IOfvTQQiDwSerL-wcdy6NMNaLGz5o5JY8I2Wi7BseWM1Quo-OPOtUGgyG_B_CnR7zJNIqFL8gASoJdXMtZWFzdC0xMOMD.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Três Passos TV
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
