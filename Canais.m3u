@@ -29,6 +29,12 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
+http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2035", Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -47,6 +53,8 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band News
+http://boxtv.uniredes.com.br:80/123456789/123456789/53
 
 #EXTINF:0 type="stream" channelId="-1", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
@@ -119,6 +127,10 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1943440238.m3u8
 #EXTINF:0 type="stream" channelId="-1", MAX90 TV
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Canal 107 Passos
+https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv Xtreme
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -139,6 +151,18 @@ https://alanza.iptv2022.com/RSCTV_Brasil/tracks-v1a1/mono.m3u8
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w1018050766.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist_w767522095.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Gazeta
+http://boxtv.uniredes.com.br:80/123456789/123456789/161
+#EXTINF:0 type="stream" channelId="-1", Rede Vida
+http://boxtv.uniredes.com.br:80/123456789/123456789/109
+#EXTINF:0 type="stream" channelId="-1", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rede América
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/redeamericatv
+#EXTINF:0 type="stream" channelId="-1", TBO
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Diário
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/TVDiario
 
 #EXTINF:0 type="stream" channelId="-1", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
@@ -155,6 +179,8 @@ https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.c
 
 #EXTINF:0 type="stream" channelId="322", Nick Jr
 http://170.82.200.38:8080/nick_junior/index.m3u8
+#EXTINF:0 type="stream" channelId="322", Cartoon Network
+http://boxtv.uniredes.com.br:80/123456789/123456789/219
 #EXTINF:0 type="stream" channelId="-1", Kids
 http://168.205.87.198:8555/live/1438/123456/143.ts
 #EXTINF:0 type="stream" channelId="-1", DC Kids Brasil
@@ -171,19 +197,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", JETSONS TV
 https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Marsha e o Urso
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766662?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1", Pinky e Cérebro
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766660
-#EXTINF:0 type="stream" channelId="-1", Aladin
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766543
-#EXTINF:0 type="stream" channelId="-1", Bob Esponja
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766553
-#EXTINF:0 type="stream" channelId="-1", Cão Coragem
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766572
-#EXTINF:0 type="stream" channelId="-1", Desenhos Disney
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766577
 
 #EXTINF:0 type="stream" channelId="-1", LIFE_CHANNEL_BRASIL
 https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
@@ -221,17 +234,20 @@ https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/475671
 #EXTINF:0 type="stream" channelId="-1", National Geographic
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
+#EXTINF:0 type="stream" channelId="-1", TVT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
+#EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
+http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Euro News Brasil
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tveuronewsbrasil
 
 #EXTINF:0 type="stream" channelId="-1", Três Passos TV
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Natal
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
-#EXTINF:0 type="stream" channelId="-1", América TV
-https://cdn.jmvstream.com/w/AVJ-9818/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal 107 Passos
-https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Aracati
 https://livefocamundo.com:8081/tvaracati/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Xtreme
-https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+
 
