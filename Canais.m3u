@@ -33,6 +33,8 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/chunklist_w1587811884.m
 https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Nova TV Agrotour
 http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lagoa TV
+https://alanza.iptv2022.com/LAGOA_TV/index.m3u8
 
 #EXTINF:0 type="stream" channelId="2035", Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
