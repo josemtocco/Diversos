@@ -17,6 +17,8 @@ https://livefocamundo.com:8081/redesul/index.m3u8
 https://livefocamundo.com:8081/redesul/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2613", TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
+#EXTINF:0 type="stream" channelId="-1", TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w341711511.m3u8
 #EXTINF:0 type="stream" channelId="-1", RDC
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Bah! TV
@@ -35,6 +37,8 @@ https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 http://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Lagoa TV
 https://alanza.iptv2022.com/LAGOA_TV/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Lagoa TV
+https://cdn-lagoafm.ciclano.io:1443/lagoafm/lagoafm/chunklist_w542222955.m3u8
 
 #EXTINF:0 type="stream" channelId="2035", Love Nature
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
