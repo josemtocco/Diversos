@@ -160,6 +160,8 @@ http://boxtv.uniredes.com.br:80/123456789/123456789/109
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrtPX03aDqHAP5YC4jSLoc7GHHKioUFFh94mmLoCTLqN)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:0 type="stream" channelId="-1", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
