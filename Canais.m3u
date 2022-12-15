@@ -180,6 +180,11 @@ http://170.82.200.38:8080/nick_junior/index.m3u8
 http://boxtv.uniredes.com.br:80/123456789/123456789/219
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1", Kids
 http://168.205.87.198:8555/live/1438/123456/143.ts
 #EXTINF:0 type="stream" channelId="-1", DC Kids Brasil
