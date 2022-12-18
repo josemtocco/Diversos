@@ -8,9 +8,6 @@ http://168.205.87.198:8555/live/1438/123456/32.ts
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
 http://boxtv.uniredes.com.br:80/123456789/123456789/79
 
-#EXTINF:0 type="stream" channelId="-1",RBS TV Passo Fundo
-https://live-rbs-rs-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtcmJzLXJzLTA0LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY3MDE5MDkwOCwiaWF0IjoxNjcwMTA0NTA4LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvcGVuX3N0YXR1cyI6IkYiLCJvd25lciI6ImYzODFiNzllLTI4YmYtNGZlZS05NzA3LTNiYzgyM2EzZTQxMSIsInBhdGgiOiIvbnUvZihpPTIpL2dsb2JvLXBmby9wbGF5bGlzdC5tM3U4IiwidXNlclNlc3Npb25LZXkiOiIwYWI0OTQ0Yy1jMGM2LTdlMjktMTI1OC1jZWZhOWNhMDRhM2QifQ.M-BpDp2H4EmfveO0r4tf8YiN0psFuL_inkM1T36Jr3bLnTOLZUM5ttvx7xefJHgkkzeSMu_J1FIZbfKTji1sdU7U74rzW8apLxMf4DlRwsNWSRMWoW-tsWKXfZEoupFHBBWR2aMLquwNHEBvIaL3UZSPw1sSKS-UyhvB9gPWHmbOlfb6gTdPKPxIQIq5AWtRcU9MXUnhYnXjp18yYkkUxslzwxacprZFPAS74yXNphJg9rgQklASqfdn_hUgiOGIforNn7iVXjo0TAbJF7_XCw3TxVVINbe_5K7DQUsEjlim3lqr3Bm12YdEjkGl1d0q_mSOT_Qo4KdGsFnCENNDoA/nu/f(i=2)/globo-pfo/globo-pfo-audio_1=96000-video=3442944.m3u8
-
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
 https://livefocamundo.com:8081/redesul/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul TV
@@ -138,6 +135,8 @@ https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Top MIx Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Natal
+https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -166,8 +165,6 @@ http://boxtv.uniredes.com.br:80/123456789/123456789/109
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Band
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrtPX03aDqHAP5YC4jSLoc7GHHKioUFFh94mmLoCTLqN)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:0 type="stream" channelId="-1", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
@@ -250,14 +247,3 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Euro News Brasil
-https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/Cp0FtM_qi_M3qdA0BhSdaw1Bg4NaF6nRgAUlWnJwZIjQzS3UGa5zmybTauq9K2I66Q5CatLx199PHBh_NqNU3JSyaeCDKbdg0y-ic2jpu4AizB3ecAWCbcfLG7SKkq7M55ly-1OuaRG2AhiLyZ7y9b5-2MOpGCQPuTvnNJ1Adcr73kXxVCq1k0r7o7qCHCX0omC-Fl7K0opWyXD-yD-MTOu2QiQwoUhfH35---2x_g9k_1EG-9SJTZAWathRnXGH_8s2jZYagYKvIzjtjVV1yl-9LtsGQY3o1KED7cXobTnjBi-UB-nIUVw0OopdCUcPu0ryr_v2cQTMu--ul_oPsRU_7T1XJb5FN0uiAHg4znXfGcjoSy0Gswl5JIthbdD52XVZb62H8ueq00Tu9GwlbMxd_szR0x86hpHaULmTLOFHM3Lrdkqf_886kkoNJuy42CC6goY3agTzwzzyQhutH_LPzHj1aR_L2oBpqd9r7KxfPEpLIxSu1NlQwqWq--BI3cC0O-BoeuUT2DtjlJ3PtwYeV7UBykLTx2PKpYdN2-ghRxCmCqtzkPSv30sAcdzJ394QfiKAPlnPOS7hh-_iDGpRCYiiMCoJLbl2OxseQjWM3sqJrQRhmQLoEVeLsq-PzqKd5I451HN2xMkkcPjLqO04XBc75GY230_6EoyRfu9dpD_3XswvLkv8e9QGQavT_eYJu0VZ49_CKKE8WQSBbeyuaTLWJSqVueToQEeYgCymsV6L-faCGEtVFWOWb1dFuJrv2nNVEv4F_zdRLNreTNTLR617tBwMleUODK89sBo1Djp59OiVw49bE9rqWDkjMvsfpCb94P_IOfvTQQiDwSerL-wcdy6NMNaLGz5o5JY8I2Wi7BseWM1Quo-OPOtUGgyG_B_CnR7zJNIqFL8gASoJdXMtZWFzdC0xMOMD.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Três Passos TV
-https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/chunklist_w443210537.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Natal
-https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Aracati
-https://livefocamundo.com:8081/tvaracati/index.m3u8
-
-
