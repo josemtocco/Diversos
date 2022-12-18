@@ -137,6 +137,8 @@ https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Natal
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
+#EXTINF:0 type="stream" channelId="-1", Christmas TV
+https://stmv1.srvif.com/cristmastv/cristmastv/chunklist_w408722586.m3u8
 
 #EXTINF:0 type="stream" channelId="5102", TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
@@ -247,3 +249,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Via morena
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
+#EXTINF:0 type="stream" channelId="-1", Toon Googles
+https://stream.ads.ottera.tv/cl/J9Mvzo_dyEutWwrRS_Ecy/1280x720_2300000_0_f.m3u8
+
