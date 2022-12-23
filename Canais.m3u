@@ -1,13 +1,18 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2628", TVE RS,
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
-#EXTINF:0 type="stream" channelId="2628", TVE
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
 http://168.205.87.198:8555/live/1438/123456/32.ts
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
 http://boxtv.uniredes.com.br:80/123456789/123456789/79
+#EXTINF:0 type="stream" channelId="-1", TV Cultura
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlylbg-wOVqpNnV2VVssv-wUXIcacmBG8tbcBJV51UHqo)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
 
+#EXTINF:0 type="stream" channelId="-1", SBT RS
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="2628", TVE RS,
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
+#EXTINF:0 type="stream" channelId="2628", TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul de Televisão
 https://livefocamundo.com:8081/redesul/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Sul TV
@@ -165,6 +170,8 @@ http://boxtv.uniredes.com.br:80/123456789/123456789/161
 http://boxtv.uniredes.com.br:80/123456789/123456789/109
 #EXTINF:0 type="stream" channelId="-1", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
@@ -254,4 +261,7 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
 #EXTINF:0 type="stream" channelId="-1", Toon Googles
 https://stream.ads.ottera.tv/cl/J9Mvzo_dyEutWwrRS_Ecy/1280x720_2300000_0_f.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", TV Rabelo
+https://cdn.jmvstream.com/w/AVJ-10593/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV UFSC
+https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
