@@ -3,8 +3,6 @@
 http://168.205.87.198:8555/live/1438/123456/32.ts
 #EXTINF:0 type="stream" channelId="2467", TV Cultura
 http://boxtv.uniredes.com.br:80/123456789/123456789/79
-#EXTINF:0 type="stream" channelId="-1", TV Cultura
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlylbg-wOVqpNnV2VVssv-wUXIcacmBG8tbcBJV51UHqo)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:0 type="stream" channelId="-1", SBT RS
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -138,7 +136,7 @@ https://cdn.jmvstream.com/w/AVJ-9778/playlist/chunklist.m3u8
 https://stmv5.samcast.com.br/deivid2889/deivid2889/chunklist_w1052023396.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Xtreme
 https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Tv Top MIx Filmes
+#EXTINF:0 type="stream" channelId="-1", Tv Top Mix Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w333847997.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Natal
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w765867555.m3u8
@@ -155,6 +153,8 @@ http://168.205.87.198:8555/live/1438/123456/134.ts
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Futuro
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w300430421.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV UFSC
+https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", REDE FAMILIA HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
@@ -174,6 +174,8 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TBO
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Via morena
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
@@ -256,12 +258,3 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Via morena
-https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
-#EXTINF:0 type="stream" channelId="-1", Toon Googles
-https://stream.ads.ottera.tv/cl/J9Mvzo_dyEutWwrRS_Ecy/1280x720_2300000_0_f.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Rabelo
-https://cdn.jmvstream.com/w/AVJ-10593/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV UFSC
-https://tvaovivo.sites.ufsc.br/hls/1_hi.m3u8
