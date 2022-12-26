@@ -53,8 +53,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 
 #EXTINF:0 type="stream" channelId="-1", TV JPNews
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" size="Small", Jovem Pan News
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Band News
