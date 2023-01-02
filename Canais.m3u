@@ -72,8 +72,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553&avod=1&coppa=0&is_lat
 #EXTINF:0 type="stream" channelId="-1", Run Time
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&
 
-#EXTINF:0 type="stream" channelId="-1", Fandom TV
-http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="-1", Fronteira Movies
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", CinePIX
@@ -190,8 +188,6 @@ https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreamingg
 #EXTINF:0 type="stream" channelId="-1", Urban Séries
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:0 type="stream" channelId="322", Nick Jr
-http://170.82.200.38:8080/nick_junior/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network
 http://boxtv.uniredes.com.br:80/123456789/123456789/219
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network
@@ -205,25 +201,14 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 http://168.205.87.198:8555/live/1438/123456/143.ts
 #EXTINF:0 type="stream" channelId="-1", DC Kids Brasil
 http://boxtv.uniredes.com.br:80/123456789/123456789/112
-#EXTINF:0 type="stream" channelId="-1", WB Kids Brasil
-http://boxtv.uniredes.com.br:80/123456789/123456789/238
-#EXTINF:0 type="stream" channelId="-1", Pica Pau
-http://boxtv.uniredes.com.br:80/123456789/123456789/190
 #EXTINF:0 type="stream" channelId="2614", TV Rá-Tim-Bum
 http://168.205.87.198:8555/live/1438/123456/84.ts
 #EXTINF:0 type="stream" channelId="-1", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fronteira Kids
 https://alanza.iptv2022.com/FRONTEIRA_KIDS/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", JETSONS TV
-https://alanza.iptv2022.com/JETSONS_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", LIFE_CHANNEL_BRASIL
-https://alanza.iptv2022.com/LIFE_CHANNEL_BRASIL/index.m3u8
-#EXTINF:0 type="stream" channelId="1573", AXN
-http://cdn2.connectbr.com.br/axn/index.m3u8
-#EXTINF:0 type="stream" channelId="1303", FX
-http://170.82.200.38:8080/fx/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jetson TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w904395745.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Comédia Brasil
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
@@ -238,22 +223,14 @@ http://168.205.87.198:8555/live/1438/123456/165.ts
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:0 type="stream" channelId="2619", Cine Brasil
 http://168.205.87.198:8555/live/1438/123456/145.ts
-#EXTINF:0 type="stream" channelId="-1", Sabor e Arte
-http://168.205.87.198:8555/live/1438/123456/172.ts
 #EXTINF:0 type="stream" channelId="1201", History 2
 http://cdn.connectbr.com.br/h2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", BraziTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Travel Box Brasil
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/384894
 #EXTINF:0 type="stream" channelId="-1", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
-#EXTINF:0 type="stream" channelId="-1", Modo Viagem
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/475671
-#EXTINF:0 type="stream" channelId="-1", National Geographic
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
 #EXTINF:0 type="stream" channelId="-1", Viajando Pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
