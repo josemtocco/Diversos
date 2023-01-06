@@ -271,16 +271,22 @@ http://cdn.connectbr.com.br:80/Promessas/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",YES LIFE 
 http://cdn.connectbr.com.br:80/Life/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1",Soul TV
+#EXTINF:0 type="stream" channelId="-1", Soul TV
 https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",CNN Brasil
+#EXTINF:0 type="stream" channelId="-1", CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV R
+#EXTINF:0 type="stream" channelId="-1", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Erga Omnes
+#EXTINF:0 type="stream" channelId="-1", TV Erga Omnes
 https://video01.kshost.com.br:4443/erga9862/erga9862/chunklist_w2008369392.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Educar
+#EXTINF:0 type="stream" channelId="-1", TV Educar
 https://v1.comunicabh.com.br/tveducar/tveducar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SOULTV",Central TV
+#EXTINF:0 type="stream" channelId="-1", Central TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
 
