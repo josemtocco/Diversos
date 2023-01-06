@@ -235,3 +235,52 @@ https://stmv2.samcast.com.br/osc6197/osc6197/chunklist_w1376166006.m3u8
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Universidade da Pessoa
 http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", Urban TV Brasil HD
+http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Movies HD
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban Series HD
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Kids HD
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Docs HD
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Turbo HD
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Retro HD
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Urban TV Travel HD
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1", ENTRETENDO 
+http://cdn.connectbr.com.br:80/Entretendo/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", CLUBINHO FAN
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",HELLO TV
+http://cdn.connectbr.com.br:80/Hello/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", INSPIRE 
+http://cdn.connectbr.com.br:80/Inspire/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",REDE MOSAICO 
+http://cdn.connectbr.com.br:80/Mosaico/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",UP CHANNEL 
+http://cdn.connectbr.com.br:80/UPChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV PROMESSAS
+http://cdn.connectbr.com.br:80/Promessas/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",YES LIFE 
+http://cdn.connectbr.com.br:80/Life/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",Soul TV
+https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",CNN Brasil
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist_w2008369392.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Erga Omnes
+https://video01.kshost.com.br:4443/erga9862/erga9862/chunklist_w2008369392.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Educar
+https://v1.comunicabh.com.br/tveducar/tveducar/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SOULTV",Central TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
+
