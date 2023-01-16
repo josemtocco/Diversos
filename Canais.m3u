@@ -8,6 +8,8 @@ http://boxtv.uniredes.com.br:80/123456789/123456789/79
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBT RS
 http://uva.bccdn.xyz:80/Eliezer1756/998471756/347
+#EXTINF:0 type="stream" channelId="-1", SBT
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="2628", TVE RS,
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1855298733.m3u8
