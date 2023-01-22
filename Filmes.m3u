@@ -41,6 +41,10 @@ http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11033.mp4
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/10917.mp4
 #EXTINF:0 type="video" channelId="-1", 13 Minutos de Tormenta - 2022
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/74417.mp4
+#EXTINF:0 type="video" channelId="-1", Passageiro Acidental (2021)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/14406.mp4
+#EXTINF:0 type="video" channelId="-1", 365 Dias Finais (2022)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/81543.mp4
 
 #EXTINF:0 type="video" channelId="-1", A Fabulosa Aventura da Sharpay (2011)
 http://axr.life:80/movie/096154/686531/1168956.mp4
@@ -52,6 +56,4 @@ https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_7
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
 https://play.prod.gcp.vix.services/spirou-fantasio_pt/spirou-fantasio_pt_1-1/play_v1_hls_720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1", Passageiro Acidental (2021)
-http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/14406.mp4
-#EXTINF:0 type="video" channelId="-1", 
+
