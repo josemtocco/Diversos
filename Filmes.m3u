@@ -12,8 +12,8 @@ http://212.8.243.99:2095/movie/dtv_770431/raDRyhfJ/14781.mp4
 
 #EXTINF:0 type="video" channelId="-1", A lenda da lápide de esmeralda
 http://clienteworld.com:80/movie/claud123/claud123/93461.mp4
-#EXTINF:0 type="video" channelId="-1", As Viagens de Gulliver (2010)
-http://clienteworld.com:80/movie/claud123/claud123/84491.mp4
+#EXTINF:0 type="video" channelId="-1", A Cor Que Caiu do Espaço (2020)
+http://clienteworld.com:80/movie/claud123/claud123/127129.mp4
 
 #EXTINF:0 type="video" channelId="-1", A Águia da Legião Perdida (2011)
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11645.mp4
@@ -27,14 +27,10 @@ http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11439.mp4
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11432.mp4
 #EXTINF:0 type="video" channelId="-1", A Proposta (2005)
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/40502.mp4
-#EXTINF:0 type="video" channelId="-1", A Princesa e a Plebeia: As Vilãs Também Amam (2021)
-http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/16444.mp4
 #EXTINF:0 type="video" channelId="-1", A Origem (2010)
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11380.mp4
 #EXTINF:0 type="video" channelId="-1", A Nova Cinderela: Milagre de Natal (2019)
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/15380.mp4
-#EXTINF:0 type="video" channelId="-1", A Montanha Enfeitiçada (2009)
-http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11287.mp4
 #EXTINF:0 type="video" channelId="-1", A Fera na Selva (2017)
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11033.mp4
 #EXTINF:0 type="video" channelId="-1", A Casa do Lago (2006)
@@ -43,13 +39,20 @@ http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/10917.mp4
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/74417.mp4
 #EXTINF:0 type="video" channelId="-1", Passageiro Acidental (2021)
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/14406.mp4
-#EXTINF:0 type="video" channelId="-1", 365 Dias Finais (2022)
-http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/81543.mp4
-
-#EXTINF:0 type="video" channelId="-1", A Fabulosa Aventura da Sharpay (2011)
-http://axr.life:80/movie/096154/686531/1168956.mp4
-#EXTINF:0 type="video" channelId="-1", Agente 00-Gato
-http://axr.life:80/movie/096154/686531/1168961.mp4
+#EXTINF:0 type="video" channelId="-1", D.P.A. Detetives do Prédio Azul - O Filme (2017)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/12179.mp4
+#EXTINF:0 type="video" channelId="-1", Milagre Azul (2021)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/13394.mp4
+#EXTINF:0 type="video" channelId="-1", Uma Caminhada na Floresta (2015)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/15394.mp4
+#EXTINF:0 type="video" channelId="-1", A Floresta das Esmeraldas (1985)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/11040.mp4
+#EXTINF:0 type="video" channelId="-1", Instinto Selvagem (1992)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/12931.mp4
+#EXTINF:0 type="video" channelId="-1", Na Natureza Selvagem (2007)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/13525.mp4
+#EXTINF:0 type="video" channelId="-1", Na Selva (2017)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/13538.mp4
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
