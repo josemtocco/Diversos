@@ -1,13 +1,4 @@
-#EXTM3U x-tvg-url="http://axr.life/xmltv.php?username=eltonamigo&password=XmFaQMh6qYMb&type=m3u_plus"
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OalUKZI.png" group-title="Informações da Lista", ATUALIZADO Seg, 30/Jan - 01:40h
-https://
-#EXTINF:-1 tvg-logo="https://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By Rhangel Furtado
-https://
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
-https://
-
-
+#EXTM3U 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E FHD
  http://axr.life:80/live/eltonamigo/XmFaQMh6qYMb/5189.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E HD
