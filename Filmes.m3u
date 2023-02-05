@@ -73,6 +73,22 @@ http://conexaoonline.top:80/movie/silviori/silvioribe/292797.mp4
 #EXTINF:0 type="video" channelId="-1", Amor Entre Amigos: O Casamento (2023)
 http://conexaoonline.top:80/movie/silviori/silvioribe/292799.mp4
 
+#EXTINF:0 type="video" channelId="-1", "Os Tênis Encantados 2022"
+http://212.8.243.99:2095/movie/dtv_742401/FLdlHf3b/46367.mp4
+#EXTINF:0 type="video" channelId="-1",Deserto do Ouro 2022
+http://212.8.243.99:2095/movie/dtv_742401/FLdlHf3b/46366.mp4
+#EXTINF:0 type="video" channelId="-1", A Caminho do Verão 2022
+http://212.8.243.99:2095/movie/dtv_742401/FLdlHf3b/46362.mp4
+
+#EXTINF:0 type="video" channelId="-1", Uma Noite no Jardim de Infância (2022)
+http://rctv.tech:80/movie/openbox20/kafta145/1232928.mkv
+#EXTINF:0 type="video" channelId="-1", Uma Viagem Incrível: O Mistério do Ovo (2021)
+http://rctv.tech:80/movie/openbox20/kafta145/1232929.mp4
+#EXTINF:0 type="video" channelId="-1", O Pálido Olho Azul 2023
+http://rctv.tech:80/movie/openbox20/kafta145/1232908.mkv
+#EXTINF:0 type="video" channelId="-1", Os Reis do Mundo 2023
+http://rctv.tech:80/movie/openbox20/kafta145/1232909.mkv
+
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
