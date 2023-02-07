@@ -89,6 +89,15 @@ http://rctv.tech:80/movie/openbox20/kafta145/1232908.mkv
 #EXTINF:0 type="video" channelId="-1", Os Reis do Mundo 2023
 http://rctv.tech:80/movie/openbox20/kafta145/1232909.mkv
 
+#EXTINF:0 type="video" channelId="-1", A Grande Aventura de Blue na Cidade (2022)
+http://loadbl2.online:8080/movie/63764741/62983324/1106627.mp4
+#EXTINF:0 type="video" channelId="-1", Big Gold Brick (2022)
+http://loadbl2.online:8080/movie/63764741/62983324/1106614.mp4
+#EXTINF:0 type="video" channelId="-1", Terra dos Sonhos (2022)
+http://loadbl2.online:8080/movie/63764741/62983324/1106611.mp4
+#EXTINF:0 type="video" channelId="-1", a Menina Chamada Passarinha (2022)
+http://loadbl2.online:8080/movie/63764741/62983324/1104859.mp4
+
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
 #EXTINF:0 type="video" channelId="-1", As Fantásticas Aventuras de Spirou e Fantásio
