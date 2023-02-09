@@ -331,3 +331,6 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:0 type="stream" channelId="-1", OX TV
 https://cdn2.connectbr.com.br/oxtv/video.m3u8
 
+#EXTINF:0 type="stream" channelId="-1",Travel Box Brazil HD
+http://186.237.99.202:8000/play/TravelBox/index.m3u8
+
