@@ -333,4 +333,7 @@ https://cdn2.connectbr.com.br/oxtv/video.m3u8
 
 #EXTINF:0 type="stream" channelId="-1",Travel Box Brazil HD
 http://186.237.99.202:8000/play/TravelBox/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Modo Viagem HD
+http://186.237.99.202:8000/play/MaisGlobosat/index.m3u8
+
 
