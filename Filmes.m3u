@@ -1,9 +1,3 @@
-#EXTINF:-1,"Lassie: Uma Verdadeira Amizade (1994)" 
-http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/13125.mp4
-
-#EXTINF:0 type="video" channelId="-1", Passado Violento (2022)
-http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/79007.mp4
-
 #EXTINF:0 type="video" channelId="-1", Demonios 2017
 https://archive.org/download/demonios.-2017/Demonios.2017.mp4
 
@@ -51,6 +45,10 @@ http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/12931.mp4
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/13525.mp4
 #EXTINF:0 type="video" channelId="-1", Na Selva (2017)
 http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/13538.mp4
+#EXTINF:0 type="video" channelId="-1", Passado Violento (2022)
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/79007.mp4
+#EXTINF:-1,"Lassie: Uma Verdadeira Amizade (1994)" 
+http://uva.bccdn.xyz:80/movie/ztngf9f5/4esqlcs8/13125.mp4
 
 #EXTINF:0 type="video" channelId="-1", Cartas para Deus (2010)
 http://uva.bccdn.xyz:80/movie/535951199299pw/264697319196/71058.mp4
@@ -60,7 +58,6 @@ http://uva.bccdn.xyz:80/movie/535951199299pw/264697319196/11020.mp4
 http://uva.bccdn.xyz:80/movie/535951199299pw/264697319196/78231.mp4
 #EXTINF:0 type="video" channelId="-1", Nossa Vida com Cães (2018)
 http://uva.bccdn.xyz:80/movie/535951199299pw/264697319196/13609.mp4
-
 #EXTINF:0 type="video" channelId="-1", Abulele Meu Amigo Monstro (2015)
 http://uva.bccdn.xyz:80/movie/535951199299pw/264697319196/10897.mp4
 #EXTINF:0 type="video" channelId="-1", Alex Rider Contra o Tempo (2006)
@@ -89,8 +86,8 @@ http://rctv.tech:80/movie/openbox20/kafta145/1232908.mkv
 #EXTINF:0 type="video" channelId="-1", Os Reis do Mundo 2023
 http://rctv.tech:80/movie/openbox20/kafta145/1232909.mkv
 
-#EXTINF:0 type="video" channelId="-1", A Grande Aventura de Blue na Cidade (2022)
-http://loadbl2.online:8080/movie/63764741/62983324/1106627.mp4
+#EXTINF:0 type="video" channelId="-1", Trem-Bala (2022)
+http://loadbl2.online:8080/movie/63764741/62983324/1104118.mp4
 #EXTINF:0 type="video" channelId="-1", Big Gold Brick (2022)
 http://loadbl2.online:8080/movie/63764741/62983324/1106614.mp4
 #EXTINF:0 type="video" channelId="-1", Terra dos Sonhos (2022)
@@ -98,10 +95,10 @@ http://loadbl2.online:8080/movie/63764741/62983324/1106611.mp4
 #EXTINF:0 type="video" channelId="-1", a Menina Chamada Passarinha (2022)
 http://loadbl2.online:8080/movie/63764741/62983324/1104859.mp4
 
-#EXTINF:0 type="video" channelId="-1", Teen Wolf: O Filme (2023)
-http://dnsbr.tk:80/movie/59754979270858/243036780754/549340.mp4
 #EXTINF:0 type="video" channelId="-1", Homem-Formiga e a Vespa: Quantumania (2023)
 http://dnsbr.tk:80/movie/59754979270858/243036780754/549326.mp4
+#EXTINF:0 type="video" channelId="-1", Bad Ass 3 - Dois Duroes em Bayou - 2015
+http://dnsbr.tk:80/movie/59754979270858/243036780754/542098.mp4
 
 #EXTINF:0 type="video" channelId="-1", Dia Amarelo
 https://play.prod.gcp.vix.services/yellow-day_pt/yellow-day_pt_1-1/play_v1_hls_720p.m3u8
